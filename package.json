@@ -1,0 +1,26 @@
+{
+  "name": "cdmx009-mdlinks",
+  "version": "1.0.0",
+  "description": "library for identifying break md links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9JazzCodeLBM/CDMX009-MdLinks.git"
+  },
+  "keywords": [
+    "md",
+    "links"
+  ],
+  "author": "LauraVBM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/9JazzCodeLBM/CDMX009-MdLinks/issues"
+  },
+  "homepage": "https://github.com/9JazzCodeLBM/CDMX009-MdLinks#readme",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
